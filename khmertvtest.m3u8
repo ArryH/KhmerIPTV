@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="KhmerTV",Apsara TV
+#EXTINF:-1 tvg-country="KH" tvg-logo="" group-title="KhmerTV",Apsara TV
 http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
-#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="KhmerTV",RHM TV
+#EXTINF:-1 tvg-country="KH" tvg-logo="" group-title="KhmerTV",RHM TV
 http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/playlist.m3u8
