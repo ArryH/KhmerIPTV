@@ -35,3 +35,19 @@ http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w1966390623_b1800000_sleng.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Raksmey Hang Meas TV
 http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w1205021718_b1800000_sleng.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",CTV9
+http://203.176.130.123:8989/live/ctv9_480k.stream/chunklist_w656074115.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w619428968.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",SEA TV
+http://96.9.77.79:1935/live/SEATV/chunklist_w1333184112.m3u8  
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/chunklist_w1532062211.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Netlink TV
+http://192.53.117.208/hls/test.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Bayon TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",SEA TV
+http://96.9.77.79:1935/live/SEATV/playlist.m3u8
+#EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",SEA TV
+
