@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Bayon TV
-https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
+https://livefta.malimarcdn.com/tvkedge/bayonhd.stream/chunklist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Hang Meas TV
 http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist.m3u8
 #EXTINF:0 tvg-country="KH" tvg-logo="" group-title="Khmer",Raksmey Hang Meas TV
